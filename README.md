@@ -12,6 +12,7 @@
  We have:
  1. dJ = (b - a) * J * dt
  2. dI = (a * J - r * I) * dt
+ 
  where a denotes the isolation rate, b the infection rate and r the cure rate.
  
  By solving the partial differential equation above, we get:
