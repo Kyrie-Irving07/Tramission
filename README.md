@@ -7,6 +7,6 @@
  Number | sicked | healthy
  ---- | ---- | ---- 
  Isolated | I | K
- Not isolated | J | $$∞ \infty$$
+ Not isolated | J | $$∞ \infty x_1$$
  
  We have:
