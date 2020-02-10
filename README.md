@@ -20,3 +20,6 @@
  
  Furthur modification:
  the isolation rate a = sigmoid(pt + b) and increases with the time.
+
+ Final prediction:
+ ![](./visual/I.png)
