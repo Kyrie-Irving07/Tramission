@@ -22,4 +22,6 @@
  the isolation rate a = sigmoid(pt + b) and increases with the time.
 
  Final prediction:
- ![](./visual/I.png)
+<p align='center'>  
+  <img src='visual/I.png' width='440'/>
+</p>
