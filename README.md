@@ -2,7 +2,7 @@
  A tramission model for 2019-nCov
 
 ## Model
- Classify the people into four categories by isolated or not and sicked or not:
+ Classify the people into four categories by isolated or not and sick or not:
  
  Number | sick | healthy
  ---- | ---- | ---- 
