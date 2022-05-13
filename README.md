@@ -4,7 +4,7 @@
 ## Model
  Classify the people into four categories by isolated or not and sicked or not:
  
- Number | sicked | healthy
+ Number | sick | healthy
  ---- | ---- | ---- 
  Isolated | I | K
  Not isolated | J | ∞
